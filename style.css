@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  h1{
+   margin: 100px;
+  }
+
+  #converter {
+    margin: 20px;
+    padding: 30px;
+    border: 1px solid #968383;
+    border-radius: 15px;
+    background-color: #fcb8b8;
+  }
+label {
+    display: flex;
+    margin: 10px 0;
+  }
+
+  #temperature{
+    width: 150px;
+    padding: 5px 10px;
+  }
+  
+  #toUnit{
+      margin-right: 183px;
+  }
+  select {
+    width: 100px;
+    padding: 5px;
+  }
+
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  button{
+      margin: 20px;
+  }
